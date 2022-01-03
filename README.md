@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Seja bem-vindo ao meu perfil, sou o <a href="https://www.linkedin.com/in/jefferson-ventura-047682208/"><i>Jefferson Ventura</i></a> 😃️</h1>
-  <p align="center">Atualmente estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://unifeob.edu.br/"><i>UNIFEOB – Centro Universitário Fundação de Ensino Octávio Bastos</i></a>
+  <p align="center">Cursando Análise e Desenvolvimento de Sistemas pela <a href="https://unifeob.edu.br/"><i>UNIFEOB – Centro Universitário Fundação de Ensino Octávio Bastos</i></a> no 5° período em 2022/1° Semestre.
 </div>
 
 
